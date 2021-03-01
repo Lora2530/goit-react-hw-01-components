@@ -1,0 +1,9 @@
+.title {
+    margin-bottom: 15px;
+    font-weight: 700;
+    font-size: 26px;
+  }
+  /* ul */
+  .friends__list {
+    padding: 0;
+  }
